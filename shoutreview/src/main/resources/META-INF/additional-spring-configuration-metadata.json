@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "authority.admin",
+      "type": "java.lang.String",
+      "description": "Description for authority.admin."
+  }
+] }
